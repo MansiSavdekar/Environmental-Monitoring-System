@@ -20,7 +20,7 @@ A full-stack Django web application to monitor air and water quality in real-tim
 
 ## Project Structure
 
-![Grocery Recommendation System Flow](Env_Monitor.png)
+![Grocery Recommendation System Flow](env_monitor/Env_Monitor.png)
 
 ## Usage
 
