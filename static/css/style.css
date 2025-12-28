@@ -1,0 +1,47 @@
+body {
+    background: #f4f7fb;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Gradient Navbar */
+.gradient-navbar {
+    background: linear-gradient(90deg, #00695c, #26a69a);
+}
+
+/* KPI Cards */
+.kpi-card {
+    color: white;
+    border-radius: 15px;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    transition: transform 0.3s;
+}
+
+.kpi-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Dashboard Cards */
+.dashboard-card {
+    border-radius: 16px;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    border: none;
+}
+
+.card-header {
+    border-radius: 16px 16px 0 0;
+}
+
+/* Table */
+.table th {
+    font-weight: 600;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 15px;
+    background: #e0e0e0;
+    color: #555;
+}
